@@ -16,7 +16,7 @@ let state;
 // null => standalone value
 // undefined => value is not set
 
-// object
+// object 
 
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
